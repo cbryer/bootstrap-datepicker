@@ -16,7 +16,7 @@
     "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
     "disallowSpaceBeforeBinaryOperators": [","],
     "disallowSpaceBeforePostfixUnaryOperators": ["++", "--"],
-    "validateLineBreaks": "LF",
+    "validateLineBreaks": "CRLF",
     "requireKeywordsOnNewLine": ["return", "break", "delete"],
     "requireLineFeedAtFileEnd": true
 }

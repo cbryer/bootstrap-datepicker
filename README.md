@@ -1,7 +1,7 @@
 # bootstrap-datepicker
 
-This is a fork of Stefan Petre's [original code](http://www.eyecon.ro/bootstrap-datepicker/);
-thanks go to him for getting this thing started!
+This is a fork of @eternicode's improvements (https://github.com/eternicode/bootstrap-datepicker) to Stefan Petre's [original code](http://www.eyecon.ro/bootstrap-datepicker/);
+thanks go to them for getting this thing started!
 
 Please note that this fork is not used on Stefan's page, nor is it maintained or contributed to by him.
 
